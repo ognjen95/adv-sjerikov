@@ -1,3 +1,1 @@
-# adv-sjerikov
-Website za klijenta.
-Uradjen dizajn cekaju se tekstovi.
+app video demo: https://youtu.be/na8awCDP8cs
